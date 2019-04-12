@@ -2,6 +2,7 @@
   "version": 2,
   "public": true,
   "name": "object-detection",
+  "alias": "ml.sejas.es",
   "builds": [
     {
       "src": "api/index.js",
